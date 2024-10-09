@@ -52,7 +52,7 @@ After executing the test:
 - The file should upload successfully if it is under 2MB.
 - The form should submit, and the automation should assert the appearance of the expected success message confirming successful submission.
   
-- 
+
 ## To-Do
 - Add screenshots of the automated test execution (coming soon).
 - Enhance test cases with additional scenarios, such as invalid file uploads (over 2MB limit), and negative test cases for form fields.
