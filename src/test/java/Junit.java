@@ -25,7 +25,6 @@ import java.time.Duration;
 
 //        @DisplayName("Get The Website ")
 //        @Test
-//        @Order(1)
 //        public void getTitle() {
 //            driver.get("https://www.digitalunite.com/practice-webform-learners");
 //            driver.manage().window().maximize();
